@@ -1,2 +1,4 @@
 # git_test
 Hello Odin!
+ 
+ I learned a lot in this lesson! I now know how to access my repository on my local machine, edit code, then stage, commit, and finally push it to GitHub, where I can see the changes on the web dashboard. One important thing I realized is how a simple naming mistake can cause problems. For example, when I named the file "hello-world.txt," it was supposed to be "hello_world.txt." I accidentally clicked the wrong thing, which made it difficult to stage the file, but I quickly figured out what went wrong. Overall, it was a great lesson, and I'm really excited to be using Git!
